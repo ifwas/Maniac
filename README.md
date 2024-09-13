@@ -8,4 +8,4 @@ also credit to jole for the roulette banner, it is taken from [here](https://git
 
 ## Preview Screenshot 
 
-<img src="https://raw.githubusercontent.com/ifwas/reimuboobs-theme/main/Graphics/screenshot/fancy.png"/>
+<img src="https://raw.githubusercontent.com/ifwas/Maniac/main/Graphics/screenshot/fancy.png"/>
